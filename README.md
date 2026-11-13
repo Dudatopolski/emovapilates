@@ -4,15 +4,8 @@
 <h3 align="center">Desenvolvimento Web | Design Responsivo | Experiência do Usuário</h3>
 
 <p align="center">
-  <img src="assets/favicon.png" width="100%"  alt="slogan">
+  <img src="assets/favicon.png" width="45%"  alt="slogan">
 </p>
-
-.slogan {
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
-    border-radius: 50%;
-}
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-c49a76?style=for-the-badge">
