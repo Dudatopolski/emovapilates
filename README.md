@@ -4,7 +4,7 @@
 <h3 align="center">Desenvolvimento Web | Design Responsivo | Experiência do Usuário</h3>
 
 <p align="center">
-  <img src="assets/favicon.png" width="45%"  alt="slogan">
+  <img src="assets/favicon.png" width="20%"  alt="slogan">
 </p>
 
 <p align="center">
