@@ -50,9 +50,9 @@ O projeto foi desenvolvido considerando diferentes tamanhos de tela, proporciona
 
 ## 🖥️ Demonstração
 
-🔗 **Repositório:** [Studio Emova Pilates](COLOQUE_O_LINK_DO_REPOSITORIO)
+🔗 **Repositório:** [Studio Emova Pilates] (https://github.com/Dudatopolski/emovapilates.git)
 
-🌐 **Site:** [Acessar projeto](COLOQUE_O_LINK_DO_SITE)
+🌐 **Site:** [Acessar projeto](Em andamento)
 
 ## 👩🏻‍💻 Desenvolvimento
 
