@@ -4,7 +4,7 @@
 <h3 align="center">Desenvolvimento Web | Design Responsivo | Experiência do Usuário</h3>
 
 <p align="center">
-  <img src="assets/espaco-1.jpg" width="100%" alt="Studio Emova Pilates - Página inicial do projeto">
+  <img src="assets/favicon.png" width="100%" alt="Studio Emova Pilates - Página inicial do projeto">
 </p>
 
 <p align="center">
