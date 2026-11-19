@@ -7,12 +7,6 @@
   <img src="assets/favicon.png" width="20%"  alt="slogan">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-c49a76?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Desenvolvimento-Web-8b6f54?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Design-Responsivo-b99b7c?style=for-the-badge">
-</p>
-
 ---
 
 ## 📌 Sobre o projeto
@@ -50,9 +44,9 @@ O projeto foi desenvolvido considerando diferentes tamanhos de tela, proporciona
 
 ## 🖥️ Demonstração
 
-🔗 **Repositório:** [Studio Emova Pilates] (https://github.com/Dudatopolski/emovapilates.git)
+🔗 **Repositório:** [Studio Emova Pilates](https://github.com/Dudatopolski/emovapilates.git)
 
-🌐 **Site:** [Acessar projeto](Em andamento)
+🌐 **Site:** [Acessar projeto](https://studioemovapilates.com.br/))
 
 ## 👩🏻‍💻 Desenvolvimento
 
