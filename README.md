@@ -46,7 +46,7 @@ O projeto foi desenvolvido considerando diferentes tamanhos de tela, proporciona
 
 🔗 **Repositório:** [Studio Emova Pilates](https://github.com/Dudatopolski/emovapilates.git)
 
-🌐 **Site:** [Acessar projeto](https://studioemovapilates.com.br/))
+🌐 **Site:** [Acessar projeto](https://studioemovapilates.com.br/)
 
 ## 👩🏻‍💻 Desenvolvimento
 
